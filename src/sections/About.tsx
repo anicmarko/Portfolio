@@ -53,7 +53,7 @@ export const AboutSection = () => {
               I’m a <span className="font-semibold text-emerald-300">Computer Science student</span> passionate about building accessible, modern web apps with React, Next.js, and .NET. I love solving problems and turning ideas into digital experiences.
             </p>
             <Link
-              href="/cv.pdf"
+              href="/Marko_Anic_CV.pdf"
               download
               className="inline-flex px-6 h-12 gap-2 items-center bg-gradient-to-r from-emerald-300 to-sky-400 text-gray-900 font-semibold rounded-xl"
             >
