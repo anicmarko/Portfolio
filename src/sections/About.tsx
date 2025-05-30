@@ -4,6 +4,7 @@ import SectionHeader from "@/components/SectionHeader";
 import Link from "next/link";
 import ProfileImage from "@/assets/images/profile.jpg";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 export const AboutSection = () => {
   return (
@@ -34,7 +35,7 @@ export const AboutSection = () => {
                   ease: "easeInOut",
                 }}
               />
-              <img
+              <Image
                 src={ProfileImage.src}
                 alt="Profile"
                 className="object-cover relative rounded-full shadow-xl w-72 h-72 z-10"
