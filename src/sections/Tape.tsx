@@ -6,12 +6,12 @@ const words = [
   "Secure",
   "Responsive",
   "Interactive",
-  "Scalable",
   "Flexible",
   "Efficient",
   "User-friendly",
   "High-quality",
   "Reliable",
+  "Innovative"
 ];
 
 export const TapeSection = () => {
