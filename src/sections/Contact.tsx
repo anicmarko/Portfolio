@@ -16,12 +16,12 @@ export const ContactSection = () => {
           <div className="flex flex-col md:flex-row gap-8 md:gap-16 items-center">
             <div>
               <h2 className="font-serif text-2xl md:text-3xl">
-                Let's create something amazing together
+                Let&#39;s create something amazing together
               </h2>
               <p className="text-sm md:text-base mt-2">
                 Ready to bring your project to life? Whether you have a
                 question, want to discuss a potential collaboration, or just
-                want to say hello, I’d love to hear from you!
+                want to say hello, I&#39;d love to hear from you!
               </p>
             </div>
             <div>
